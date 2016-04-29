@@ -62,4 +62,4 @@ Make every file lowercase or camel-case.
 Tools are for solving problems... Not for making them...
 Best practices is not the same as toolsets.
     
-
+Skriver bara för att se om git reagerar.
