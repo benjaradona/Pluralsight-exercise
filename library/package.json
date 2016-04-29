@@ -1,0 +1,23 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "apptest",
+    "start": "node app.js"
+  },
+  "author": "Benjamin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jshint-stylish": "^2.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jscs": "^2.0.0",
+    "gulp-jshint": "^2.0.0",
+    "jshint-stylish": "^2.1.0",
+    "wiredep": "^4.0.0"
+  }
+}
